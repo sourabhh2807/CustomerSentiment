@@ -1,6 +1,11 @@
-# Myntra Customer Review Sentiment Analyzer (BERT)
+# Customer Review Sentiment Analyzer (BERT)
 
 A Streamlit web app that classifies Myntra customer reviews as Positive, Neutral, or Negative using a fine-tuned BERT model.
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cust-review-analyzer.streamlit.app/)
+
+![App Preview](IMAGES/THUBMNAIL.png)
+
 
 ## Features
 - Fine-tuned DistilBERT for e-commerce reviews
